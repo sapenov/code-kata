@@ -67,7 +67,7 @@ Run `make test` to run the tests using pytest.
 ## When you're done, deactivate the virtual environment
 `deactivate`
 
-#Docker
+# Docker
 
 This Dockerfile setup allows you to easily containerize 
 your fixed-width file parser, making it portable and easy 
